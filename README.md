@@ -11,7 +11,7 @@ This notebook is a *prototype implementation* that can be brought to the field. 
 - Visual reports and ontology schema (Graphviz).
 
 > ![static-scenario](https://github.com/kiycoh/owl-robot-planner-bc-circ/blob/main/robot_map_robot.png)
-> Office is the objective but in this scenario it's unreachable.
+> `bathroom1` is the objective but in this scenario it's unreachable.
 
 ## API Overview
 - World/ontology
@@ -81,4 +81,5 @@ run_random_world_scenario(num_rooms=100, num_doors=200, num_anomalies=70)
 
 ## License
 MIT
+
 
