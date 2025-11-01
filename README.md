@@ -80,4 +80,5 @@ run_random_world_scenario(num_rooms=100, num_doors=200, num_anomalies=70)
 ```
 
 ## License
-Add your preferred license (e.g., MIT) in a LICENSE file.
+MIT
+
